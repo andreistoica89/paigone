@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Europabank MPI v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-02-07 08:12:18+0000\n"
+"Last-Translator: Europabank NV\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: woocommerce-europabankmpi.php:0
+#: woocommerce-europabankmpi.php:53
+#: woocommerce-europabankmpi.php:102
+#@ woocommerce-europabankmpi
+msgid "Europabank MPI"
+msgstr "Europabank MPI"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: woocommerce-europabankmpi.php:0
+#@ woocommerce-europabankmpi
+msgid "https://www.europabank.be/"
+msgstr "https://www.europabank.be/"
+
+#. translators: plugin header field 'Description'
+#: woocommerce-europabankmpi.php:0
+#@ woocommerce-europabankmpi
+msgid "Europabank MPI payment gateway for WooCommerce"
+msgstr "Europabank MPI betaalmethode voor WooCommerce"
+
+#. translators: plugin header field 'Author'
+#: woocommerce-europabankmpi.php:0
+#@ woocommerce-europabankmpi
+msgid "Europabank NV."
+msgstr "Europabank NV."
+
+#. translators: plugin header field 'Version'
+#: woocommerce-europabankmpi.php:0
+#@ woocommerce-europabankmpi
+msgid "1.0"
+msgstr "1.0"
+
+#: woocommerce-europabankmpi.php:54
+#@ woocommerce-europabankmpi
+msgid "Have your customers pay with Visa, MasterCard, Maestro or iDEAL using the Europabank MPI."
+msgstr "Laat uw klanten betalen met Visa, MasterCard, Maestro of iDEAL via de Europabank MPI."
+
+#: woocommerce-europabankmpi.php:91
+#@ woocommerce-europabankmpi
+msgid "Enable Europabank MPI"
+msgstr "Europabank MPI inschakelen"
+
+#: woocommerce-europabankmpi.php:93
+#: woocommerce-europabankmpi.php:196
+#: woocommerce-europabankmpi.php:204
+#@ woocommerce-europabankmpi
+msgid "Yes"
+msgstr "Ja"
+
+#: woocommerce-europabankmpi.php:94
+#@ woocommerce-europabankmpi
+msgid "Enable the Europabank MPI payment gateway?"
+msgstr "De Europabank MPI betaalmethode inschakelen?"
+
+#: woocommerce-europabankmpi.php:99
+#@ woocommerce-europabankmpi
+msgid "Title"
+msgstr "Titel"
+
+#: woocommerce-europabankmpi.php:101
+#@ woocommerce-europabankmpi
+msgid "Payment title that the customer will see on the checkout page."
+msgstr "Naam van de betaalmethode die de klant te zien zal krijgen op de checkout pagina."
+
+#: woocommerce-europabankmpi.php:106
+#@ woocommerce-europabankmpi
+msgid "Description"
+msgstr "Omschrijving"
+
+#: woocommerce-europabankmpi.php:108
+#@ woocommerce-europabankmpi
+msgid "Payment description that the customer will see on the checkout page."
+msgstr "Omschrijving van de betaalmethode die de klant te zien zal krijgen op de checkout pagina."
+
+#: woocommerce-europabankmpi.php:113
+#@ woocommerce-europabankmpi
+msgid "Brand"
+msgstr "Brand"
+
+#: woocommerce-europabankmpi.php:116
+#@ woocommerce-europabankmpi
+msgid "All"
+msgstr "Alle"
+
+#: woocommerce-europabankmpi.php:117
+#: woocommerce-europabankmpi.php:355
+#@ woocommerce-europabankmpi
+msgid "Maestro"
+msgstr "Maestro"
+
+#: woocommerce-europabankmpi.php:118
+#: woocommerce-europabankmpi.php:361
+#@ woocommerce-europabankmpi
+msgid "MasterCard"
+msgstr "MasterCard"
+
+#: woocommerce-europabankmpi.php:119
+#: woocommerce-europabankmpi.php:364
+#@ woocommerce-europabankmpi
+msgid "Visa"
+msgstr "Visa"
+
+#: woocommerce-europabankmpi.php:120
+#: woocommerce-europabankmpi.php:358
+#@ woocommerce-europabankmpi
+msgid "iDEAL"
+msgstr "iDEAL"
+
+#: woocommerce-europabankmpi.php:122
+#@ woocommerce-europabankmpi
+msgid "Which brand do you want as default?"
+msgstr "Welke brand wil u als standaard?"
+
+#: woocommerce-europabankmpi.php:127
+#@ woocommerce-europabankmpi
+msgid "Account type"
+msgstr "Account type"
+
+#: woocommerce-europabankmpi.php:130
+#@ woocommerce-europabankmpi
+msgid "Test account"
+msgstr "Test account"
+
+#: woocommerce-europabankmpi.php:131
+#@ woocommerce-europabankmpi
+msgid "Live account"
+msgstr "Live account"
+
+#: woocommerce-europabankmpi.php:133
+#@ woocommerce-europabankmpi
+msgid "Are you using a test- or a live MPI account?"
+msgstr "Gebruikt u een test- of een live MPI account?"
+
+#: woocommerce-europabankmpi.php:138
+#@ woocommerce-europabankmpi
+msgid "Uid"
+msgstr "Uid"
+
+#: woocommerce-europabankmpi.php:140
+#@ woocommerce-europabankmpi
+msgid "The UID of your MPI account."
+msgstr "Het UID van uw MPI account."
+
+#: woocommerce-europabankmpi.php:145
+#@ woocommerce-europabankmpi
+msgid "Server secret"
+msgstr "Server secret"
+
+#: woocommerce-europabankmpi.php:147
+#@ woocommerce-europabankmpi
+msgid "The server secret of your MPI account."
+msgstr "Het server secret van uw MPI account."
+
+#: woocommerce-europabankmpi.php:152
+#@ woocommerce-europabankmpi
+msgid "Feedback type"
+msgstr "Feedback type"
+
+#: woocommerce-europabankmpi.php:155
+#@ woocommerce-europabankmpi
+msgid "No feedback"
+msgstr "Geen feedback"
+
+#: woocommerce-europabankmpi.php:156
+#@ woocommerce-europabankmpi
+msgid "Online"
+msgstr "Online"
+
+#: woocommerce-europabankmpi.php:157
+#@ woocommerce-europabankmpi
+msgid "Semi-online"
+msgstr "Semi-online"
+
+#: woocommerce-europabankmpi.php:158
+#@ woocommerce-europabankmpi
+msgid "Offline"
+msgstr "Offline"
+
+#: woocommerce-europabankmpi.php:160
+#@ woocommerce-europabankmpi
+msgid "The type of feedback you want to use."
+msgstr "Het type van feedback dat u wil gebruiken."
+
+#: woocommerce-europabankmpi.php:165
+#@ woocommerce-europabankmpi
+msgid "Redirect type"
+msgstr "Redirect type"
+
+#: woocommerce-europabankmpi.php:168
+#@ woocommerce-europabankmpi
+msgid "No redirect"
+msgstr "Geen redirect"
+
+#: woocommerce-europabankmpi.php:169
+#@ woocommerce-europabankmpi
+msgid "Direct"
+msgstr "Direct"
+
+#: woocommerce-europabankmpi.php:170
+#@ woocommerce-europabankmpi
+msgid "Indirect"
+msgstr "Indirect"
+
+#: woocommerce-europabankmpi.php:172
+#@ woocommerce-europabankmpi
+msgid "The type of redirect you want to use."
+msgstr "Het type van redirect dat u wil gebruiken."
+
+#: woocommerce-europabankmpi.php:185
+#@ woocommerce-europabankmpi
+msgid "Email feedback"
+msgstr "Email feedback"
+
+#: woocommerce-europabankmpi.php:194
+#@ woocommerce-europabankmpi
+msgid "Email customer"
+msgstr "Email klant"
+
+#: woocommerce-europabankmpi.php:197
+#@ woocommerce-europabankmpi
+msgid "Do you want us to send a payment confirmation email to your customer?"
+msgstr "Wilt u dat we uw klant een betalingsbevestiging email sturen?"
+
+#: woocommerce-europabankmpi.php:202
+#@ woocommerce-europabankmpi
+msgid "Second chance"
+msgstr "Tweede kans"
+
+#: woocommerce-europabankmpi.php:205
+#@ woocommerce-europabankmpi
+msgid "In case of a failed payment, do you want us to send an email to your customer with a link to retry the payment?"
+msgstr "In geval van een mislukte betaling, wilt u dat we uw klant een email sturen met een link om de betaling nogmaals te proberen?"
+
+#: woocommerce-europabankmpi.php:210
+#@ woocommerce-europabankmpi
+msgid "CSS"
+msgstr "CSS"
+
+#: woocommerce-europabankmpi.php:212
+#@ woocommerce-europabankmpi
+msgid "The url of a CSS file for the payment page."
+msgstr "De url van een CSS bestand voor de betalingspagina."
+
+#: woocommerce-europabankmpi.php:190
+#: woocommerce-europabankmpi.php:214
+#: woocommerce-europabankmpi.php:221
+#@ woocommerce-europabankmpi
+msgid "Optional"
+msgstr "Optioneel"
+
+#: woocommerce-europabankmpi.php:217
+#@ woocommerce-europabankmpi
+msgid "Template"
+msgstr "Sjabloon"
+
+#: woocommerce-europabankmpi.php:219
+#@ woocommerce-europabankmpi
+msgid "The url of a template file for the payment page."
+msgstr "De url van een sjabloon bestand voor de betalingspagina."
+
+#: woocommerce-europabankmpi.php:296
+#@ woocommerce-europabankmpi
+msgid "Customer redirected to Europabank MPI."
+msgstr "Klant doorgestuurd naar Europabank MPI."
+
+#: woocommerce-europabankmpi.php:303
+#@ woocommerce-europabankmpi
+msgid "Europabank MPI error:"
+msgstr "Europabank MPI error:"
+
+#: woocommerce-europabankmpi.php:367
+#@ woocommerce-europabankmpi
+msgid "Unknown brand"
+msgstr "Onbekende brand"
+
+#: woocommerce-europabankmpi.php:370
+#, php-format
+#@ woocommerce-europabankmpi
+msgid "%s payment accepted, refnr: %s."
+msgstr "%s betaling geaccepteerd, refnr: %s."
+
+#: woocommerce-europabankmpi.php:372
+#@ woocommerce-europabankmpi
+msgid "Payment cancelled."
+msgstr "Betaling geannuleerd."
+
+#: woocommerce-europabankmpi.php:374
+#@ woocommerce-europabankmpi
+msgid "Payment denied."
+msgstr "Betaling geweigerd."
+
+#: woocommerce-europabankmpi.php:376
+#@ woocommerce-europabankmpi
+msgid "Payment encountered exception."
+msgstr "Fout tijdens de betaling."
+
+#: woocommerce-europabankmpi.php:378
+#@ woocommerce-europabankmpi
+msgid "Payment timed out."
+msgstr "Tijdslimiet voor betaling overschreden."
+
+#: woocommerce-europabankmpi.php:380
+#@ woocommerce-europabankmpi
+msgid "Unknown payment status."
+msgstr "Onbekende status."
+
+#: woocommerce-europabankmpi.php:257
+#, php-format
+#@ woocommerce-europabankmpi
+msgid "Order %s at %s."
+msgstr "Bestelling %s bij %s."
+
+#: woocommerce-europabankmpi.php:343
+#, php-format
+#@ woocommerce-europabankmpi
+msgid "Payment not successful: %s"
+msgstr "Betaling niet succesvol:: %s"
+
+#: woocommerce-europabankmpi.php:109
+#@ woocommerce-europabankmpi
+msgid "Pay with Maestro, MasterCard, Visa or iDEAL using the Europabank MPI."
+msgstr "Betalen met Maestro, MasterCard, Visa of iDEAL via de Europabank MPI."
+
+#: woocommerce-europabankmpi.php:287
+#@ woocommerce-europabankmpi
+msgid "Your shopping cart contains both recurring and non-recurring products. Please order only 1 type of products at a time."
+msgstr "Uw winkelmandje bevat zowel recurrente als niet recurrente producten. Gelieve slechts 1 soort producten per keer te bestellen."
+
+#: woocommerce-europabankmpi.php:188
+#@ woocommerce-europabankmpi
+msgid "To send you an email with the outcome of a transaction"
+msgstr "Om u een email op te sturen met het resultaat van de transactie"
+

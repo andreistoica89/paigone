@@ -1,0 +1,2473 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: thank-you-page-for-woocommerce-nextmove-lite\n"
+"POT-Creation-Date: 2018-02-23 17:57+0530\n"
+"PO-Revision-Date: 2018-02-23 17:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: xlplugins\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/includes/cmb2-debug-config.php:6
+msgid "Select Order"
+msgstr ""
+
+#: admin/includes/cmb2-debug-config.php:10 admin/xlwcty-admin.php:1557
+msgid "Choose an Order"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:5
+msgid "NextMove Mode"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:6
+msgid ""
+"Select Live button to go live. In <strong>Sandbox mode</strong>, only "
+"preview works."
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:10 includes/xlwcty-common.php:1579
+msgid "Live"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:11
+msgid "Sandbox"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:13 includes/xlwcty-common.php:576
+msgid "General"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:16
+msgid "Left Right Padding (gap)"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:19
+msgid "In responsive mode if you find left right padding is required"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:27
+msgid "Allow ThankYou pages on Order Status"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:32
+msgid ""
+"Note: If you are receiving payments using paypal kindly enable \"pending "
+"payment\" in order statuses"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:37
+msgid "Choose Order Status"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:41
+msgid "Google Map Api Key"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:44
+msgid ""
+"To generate API key, <a href=\"https://developers.google.com/maps/"
+"documentation/javascript/get-api-key\" target=\"_blank\">Click here</a>"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:45
+msgid "Google Map"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:48
+msgid "Google Map Error Text"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:51
+msgid "This text would be visible when map is unable to load"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:54
+msgid "Enable Facebook Pixel Tracking"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:56
+msgid "Check this box if you want to fire Facebook pixels on Thank You page."
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:59
+msgid "eCommerce Tracking Codes"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:62
+msgid "Facebook Pixel ID"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:64
+msgid ""
+"Log into your facebook ads account to find your Pixel ID. <a href=\"https://"
+"www.facebook.com/ads/manager/pixel/facebook_pixel\" target=\"_blank\">Click "
+"here for more info</a>."
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:75
+#: admin/includes/cmb2-settings-config.php:77
+msgid "Fire Facebook PageView event"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:87
+#: admin/includes/cmb2-settings-config.php:89
+msgid "Fire Facebook Purchase event to Add Conversion Values"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:97
+msgid ""
+"<p>Note: NextMove will send total order value and store currency based on "
+"order. <a href=\"https://developers.facebook.com/docs/facebook-pixel/pixel-"
+"with-ads/conversion-tracking#add-value\" target=\"_blank\">Click here</a> to "
+"know more.</p>"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:100
+#: admin/includes/cmb2-settings-config.php:102
+msgid ""
+"Fire Facebook Purchase event with Order item's complete data i.e. product "
+"name, category & product_id."
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:111
+msgid ""
+"<p>Note: Your Product catalog must be synced with Facebook. <a href="
+"\"https://developers.facebook.com/docs/marketing-api/dynamic-product-ads/"
+"product-catalog\" target=\"_blank\">Click here</a> to know more.</p>"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:114
+#: admin/includes/cmb2-settings-config.php:116
+msgid "Setup advanced matching with the pixel"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:124
+msgid ""
+"<p>Note: NextMove will send customer's email, name, phone, address fields "
+"whichever available in the order. <a href=\"https://developers.facebook.com/"
+"docs/facebook-pixel/pixel-with-ads/conversion-tracking#advanced_match\" "
+"target=\"_blank\">Click here</a> to know more.</p>"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:127
+msgid "Enable Google Analytics Tracking"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:129
+msgid ""
+"Check this box if you want to push google analytics ecommerce events on "
+"Thank You page."
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:135
+msgid "Google Anlytics ID"
+msgstr ""
+
+#: admin/includes/cmb2-settings-config.php:137
+msgid ""
+"Log into your google analytics account to <a href=\"https://support.google."
+"com/analytics/answer/1008080?hl=en#trackingID\" target=\"_blank\">find your "
+"ID</a>. eg: UA-XXXXXX-X."
+msgstr ""
+
+#: admin/includes/xlwcty-admin-cmb2-support.php:41
+msgid "Untitled"
+msgstr ""
+
+#: admin/includes/xlwcty-admin-cmb2-support.php:79
+msgid "All"
+msgstr ""
+
+#: admin/includes/xlwcty-admin-wcthankyou-options.php:27
+msgid "Component Builder Settings"
+msgstr ""
+
+#: admin/includes/xlwcty-admin-wcthankyou-options.php:73
+msgid "Global Settings"
+msgstr ""
+
+#: admin/includes/xlwcty-admin-wcthankyou-options.php:92
+msgid "Debug Settings"
+msgstr ""
+
+#: admin/includes/xlwcty-admin-wcthankyou-options.php:138
+msgid "Thank You Page Priority"
+msgstr ""
+
+#: admin/includes/xlwcty-admin-wcthankyou-options.php:153
+msgid ""
+"Priority works in ascending order. Lower the priority, higher the chance for "
+"thank you page to work.<br>For Eg: If there are two thank you pages A &amp; "
+"B with respective priority of 1 &amp; 2, then thank you page A will be "
+"executed before page B."
+msgstr ""
+
+#: admin/includes/xlwcty-admin-wcthankyou-options.php:178
+msgid "Quick View"
+msgstr ""
+
+#: admin/includes/xlwcty-post-table.php:42
+msgid "No Page Available"
+msgstr ""
+
+#: admin/includes/xlwcty-post-table.php:87 includes/xlwcty-common.php:518
+msgid "Deactivated"
+msgstr ""
+
+#: admin/includes/xlwcty-post-table.php:90 includes/xlwcty-common.php:513
+msgid "Activated"
+msgstr ""
+
+#: admin/includes/xlwcty-post-table.php:231
+msgid "&nbsp;"
+msgstr ""
+
+#: admin/includes/xlwcty-post-table.php:232
+msgid "Title"
+msgstr ""
+
+#: admin/includes/xlwcty-post-table.php:233 includes/xlwcty-common.php:710
+msgid "Components"
+msgstr ""
+
+#: admin/includes/xlwcty-post-table.php:234
+#: components/customer-info/data.php:125 components/image-content/data.php:95
+#: components/order-details/data.php:95
+msgid "Layout"
+msgstr ""
+
+#: admin/includes/xlwcty-post-table.php:235
+msgid "Template"
+msgstr ""
+
+#: admin/includes/xlwcty-post-table.php:236
+msgid "Status"
+msgstr ""
+
+#: admin/includes/xlwcty-post-table.php:237
+msgid "Priority"
+msgstr ""
+
+#: admin/views/metabox-rules-rule-template.php:25
+#: admin/views/metabox-rules.php:92
+msgid "Loading..."
+msgstr ""
+
+#: admin/views/metabox-rules-rule-template.php:26
+#: admin/views/metabox-rules.php:94
+msgid "AND"
+msgstr ""
+
+#: admin/views/metabox-rules.php:33 includes/xlwcty-common.php:716
+msgid "Rules"
+msgstr ""
+
+#: admin/views/metabox-rules.php:34
+msgid ""
+"Create a set of rules to determine when this Thank You Page  will be "
+"displayed."
+msgstr ""
+
+#: admin/views/metabox-rules.php:51
+msgid "Open this page when these conditions are matched:"
+msgstr ""
+
+#: admin/views/metabox-rules.php:53 admin/xlwcty-admin.php:1047
+msgid "or"
+msgstr ""
+
+#: admin/views/metabox-rules.php:97
+msgid "Remove condition"
+msgstr ""
+
+#: admin/views/metabox-rules.php:109
+msgid "or when these conditions are matched"
+msgstr ""
+
+#: admin/views/metabox-rules.php:110
+msgid "Add a set of conditions"
+msgstr ""
+
+#: admin/views/metabox-rules.php:110
+msgid "OR"
+msgstr ""
+
+#: admin/views/metabox-rules.php:113
+msgid "Unlock all the rules by switching to "
+msgstr ""
+
+#: admin/views/metabox-rules.php:114
+msgid "PRO version"
+msgstr ""
+
+#: admin/xlwcty-admin.php:239 admin/xlwcty-admin.php:268
+#: admin/xlwcty-admin.php:299 admin/xlwcty-admin.php:368
+#: admin/xlwcty-admin.php:397 admin/xlwcty-admin.php:428
+#: components/order-acknowledge/data.php:5
+msgid "Order Confirmation"
+msgstr ""
+
+#: admin/xlwcty-admin.php:244 admin/xlwcty-admin.php:273
+#: admin/xlwcty-admin.php:304 admin/xlwcty-admin.php:373
+#: admin/xlwcty-admin.php:402 admin/xlwcty-admin.php:433
+#: components/map/data.php:4
+msgid "Location Map"
+msgstr ""
+
+#: admin/xlwcty-admin.php:249 admin/xlwcty-admin.php:278
+#: admin/xlwcty-admin.php:309 admin/xlwcty-admin.php:378
+#: admin/xlwcty-admin.php:407 admin/xlwcty-admin.php:438
+#: components/customer-info/data.php:5
+msgid "Customer Details"
+msgstr ""
+
+#: admin/xlwcty-admin.php:254 admin/xlwcty-admin.php:283
+#: admin/xlwcty-admin.php:314 admin/xlwcty-admin.php:383
+#: admin/xlwcty-admin.php:412 admin/xlwcty-admin.php:443
+msgid "Order Details"
+msgstr ""
+
+#: admin/xlwcty-admin.php:259 admin/xlwcty-admin.php:288
+#: admin/xlwcty-admin.php:319 admin/xlwcty-admin.php:388
+#: admin/xlwcty-admin.php:417 admin/xlwcty-admin.php:448
+msgid "Additional Information"
+msgstr ""
+
+#: admin/xlwcty-admin.php:333 admin/xlwcty-admin.php:334
+msgid "Thank You"
+msgstr ""
+
+#: admin/xlwcty-admin.php:496
+msgid ""
+"Congrats! You're on your way to creating a new Thank You Page. Follow these "
+"4 simple steps:"
+msgstr ""
+
+#: admin/xlwcty-admin.php:498
+msgid "Step 1"
+msgstr ""
+
+#: admin/xlwcty-admin.php:498
+msgid "Enter the page title above to name your Thank you page."
+msgstr ""
+
+#: admin/xlwcty-admin.php:500
+msgid "Step 2"
+msgstr ""
+
+#: admin/xlwcty-admin.php:500
+msgid ""
+"Press the Publish button on the right-hand corner. You will be automatically "
+"directed to a separate UI"
+msgstr ""
+
+#: admin/xlwcty-admin.php:502
+msgid "Step 3"
+msgstr ""
+
+#: admin/xlwcty-admin.php:502
+msgid ""
+"Choose the components you'd like to display, edit and arrange them in order."
+msgstr ""
+
+#: admin/xlwcty-admin.php:503
+msgid "Step 4"
+msgstr ""
+
+#: admin/xlwcty-admin.php:503
+msgid "Hit Preview and you're all set to go live!"
+msgstr ""
+
+#: admin/xlwcty-admin.php:548
+msgid "Thank You Pages"
+msgstr ""
+
+#: admin/xlwcty-admin.php:550 includes/xlwcty-common.php:129
+#: includes/xlwcty-common.php:130
+msgid "Add New"
+msgstr ""
+
+#: admin/xlwcty-admin.php:552
+msgid "Settings"
+msgstr ""
+
+#: admin/xlwcty-admin.php:599
+msgid "I was unable to set up Thank You Page?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:599
+msgid ""
+"Kindly visit our <a href=\"https://xlplugins.com/documentation/nextmove-"
+"woocommerce-thank-you-page/getting-started/\">documentation</a> to know more "
+"about how to setup thank you pages. "
+msgstr ""
+
+#: admin/xlwcty-admin.php:600
+msgid "Thank You page is not coming on frontend?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:600
+msgid ""
+"Visit this step-by-step <a href=\"https://xlplugins.com/documentation/"
+"nextmove-woocommerce-thank-you-page/troubleshooting-guides/thank-you-page-"
+"didnt-show/\">documentation guide</a> to uncover the reasons for why Thank "
+"You Page may not be showing up.. "
+msgstr ""
+
+#: admin/xlwcty-admin.php:601
+msgid "Who is Next Move ideal for?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:601
+msgid ""
+"Next Move is for WooCommerce store owners who want to generate repeat orders "
+"on autopilot. They understand the real potential of Thank You pages in the "
+"funnel but never had the right tools to exploit it."
+msgstr ""
+
+#: admin/xlwcty-admin.php:602
+msgid ""
+"Does NextMove Modify existing Thank You page or creates a new Thank You page?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:602
+msgid ""
+"NextMove generates a new thank you page and adds components as defined by "
+"you."
+msgstr ""
+
+#: admin/xlwcty-admin.php:603
+msgid "What is referred to as a component?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:603
+msgid ""
+"Each section on the WooCommerce Thank You page such as Order Confirmation, "
+"Items, Billing Information, Text, Image, HTML, Videos etc are referred to as "
+"a component."
+msgstr ""
+
+#: admin/xlwcty-admin.php:604
+msgid "What kind of components can I add to my Thank You Pages?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:604
+msgid ""
+"There are 17 different components or what we call the building blocks in "
+"Thank You pages. See the pricing table to refer. You can choose and add "
+"whatever components you want on your Thank You Pages. It's as zippy and "
+"hassle-free as it sounds!"
+msgstr ""
+
+#: admin/xlwcty-admin.php:605
+msgid "Can I customize the components to match my site's themes?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:605
+msgid ""
+"Yes, all the components of Next Move can be customized. Match the skin "
+"colors to your store's theme, add borders, change the font size and more. "
+"Nothing is rigid here."
+msgstr ""
+
+#: admin/xlwcty-admin.php:606
+msgid "Can I turn off individual components?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:606
+msgid ""
+"Absolutely! You can turn off different components based your choice and "
+"requirements."
+msgstr ""
+
+#: admin/xlwcty-admin.php:607
+msgid "Can I set up multiple Thank You Pages based on product or categories?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:607
+msgid ""
+"Yes, You can set up as many Thank you pages as you like. You can dive deep "
+"and show Thank you pages to customers based on their order value, items "
+"purchased, payment gateways, shipping methods used, country of visitor and "
+"other parameters. Sky is the limit. Quite literally."
+msgstr ""
+
+#: admin/xlwcty-admin.php:608
+msgid "What is Rule Builder?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:608
+msgid ""
+"Rule builder allows you set up different rules and only when conditions are "
+"met a particular thank you page is shown.<br/>Say you want to show specific "
+"thank you page based on different items purchased. You can set up the rule "
+"to show different pages when rules are met."
+msgstr ""
+
+#: admin/xlwcty-admin.php:609
+msgid "Do I need to make an order every time to preview the page?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:609
+msgid ""
+"No, We have the feature to choose the preview order and look at how Thank "
+"You page would look. Once you are satisfied with the look, you can switch it."
+msgstr ""
+
+#: admin/xlwcty-admin.php:610
+msgid "Can I build Thank You page in sandbox mode until I finalized the page?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:610
+msgid ""
+"Yes, There is a global setting in which you can choose to switch NextMove "
+"Mode to sandbox mode while building pages. Don't forget to switch to Live "
+"mode when done :)"
+msgstr ""
+
+#: admin/xlwcty-admin.php:611
+msgid "I run my website in a different language. Can I change the text?"
+msgstr ""
+
+#: admin/xlwcty-admin.php:611
+msgid ""
+"Yes, you can easily create Thank You Pages in your language. We are also "
+"compatible with WPML."
+msgstr ""
+
+#: admin/xlwcty-admin.php:615 admin/xlwcty-admin.php:1099
+msgid "Back to <a href=\""
+msgstr ""
+
+#: admin/xlwcty-admin.php:627
+msgid "Troubleshoot Your Page"
+msgstr ""
+
+#: admin/xlwcty-admin.php:635
+msgid "FAQs"
+msgstr ""
+
+#: admin/xlwcty-admin.php:730 admin/xlwcty-admin.php:734
+#: admin/xlwcty-admin.php:743
+msgid "Oops!"
+msgstr ""
+
+#: admin/xlwcty-admin.php:731 admin/xlwcty-admin.php:744
+msgid "We do not have any orders to generate preview."
+msgstr ""
+
+#: admin/xlwcty-admin.php:735
+msgid "Please chose at least one component."
+msgstr ""
+
+#: admin/xlwcty-admin.php:738
+msgid "Changes have been made!"
+msgstr ""
+
+#: admin/xlwcty-admin.php:739
+msgid "You need to save changes before generating preview."
+msgstr ""
+
+#: admin/xlwcty-admin.php:740
+msgid "Yes, Save It!"
+msgstr ""
+
+#: admin/xlwcty-admin.php:747
+msgid "Saving Your Data"
+msgstr ""
+
+#: admin/xlwcty-admin.php:751
+msgid "Warning"
+msgstr ""
+
+#: admin/xlwcty-admin.php:752
+msgid ""
+"You would need to reset permalinks to generate Preview. Go to Admin -> "
+"Settings -> Permalinks and Reset. "
+msgstr ""
+
+#: admin/xlwcty-admin.php:769
+msgid ""
+"Upgrade To PRO &nbsp;<i class=\"dashicons dashicons-arrow-right-alt\"></i>"
+msgstr ""
+
+#: admin/xlwcty-admin.php:785
+msgid "Recently Viewed is a PRO Feature"
+msgstr ""
+
+#: admin/xlwcty-admin.php:789
+msgid "Related Products is a PRO Feature"
+msgstr ""
+
+#: admin/xlwcty-admin.php:793
+msgid "Specific Products is a PRO Feature"
+msgstr ""
+
+#: admin/xlwcty-admin.php:797
+msgid "Cross Sell Products is a PRO Feature"
+msgstr ""
+
+#: admin/xlwcty-admin.php:801
+msgid "UpSell Products is a PRO Feature"
+msgstr ""
+
+#: admin/xlwcty-admin.php:805
+msgid "Coupons is a PRO Feature"
+msgstr ""
+
+#: admin/xlwcty-admin.php:809
+msgid "Smart Bribe is a PRO Feature "
+msgstr ""
+
+#: admin/xlwcty-admin.php:813
+msgid "Social Share is a PRO Feature"
+msgstr ""
+
+#: admin/xlwcty-admin.php:817
+msgid "Join Us is a PRO Feature"
+msgstr ""
+
+#: admin/xlwcty-admin.php:821
+msgid "Birth Date is a PRO Feature"
+msgstr ""
+
+#: admin/xlwcty-admin.php:984
+msgid "Go Pro"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1000
+msgid "NextMove Lite: XLPlugins"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1048
+msgid "Open this page when these conditions are matched"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1049
+msgid "Remove"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1109
+msgid "Thankyou Pages updated."
+msgstr ""
+
+#: admin/xlwcty-admin.php:1110
+msgid "Custom field updated."
+msgstr ""
+
+#: admin/xlwcty-admin.php:1111
+msgid "Custom field deleted."
+msgstr ""
+
+#: admin/xlwcty-admin.php:1112 admin/xlwcty-admin.php:1114
+#: admin/xlwcty-admin.php:1116 admin/xlwcty-admin.php:1119
+msgid "Thankyou Pages updated. "
+msgstr ""
+
+#: admin/xlwcty-admin.php:1113
+#, php-format
+msgid "Trigger restored to revision from %s"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1115
+msgid "Trigger saved. "
+msgstr ""
+
+#: admin/xlwcty-admin.php:1117
+#, php-format
+msgid "Trigger scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: admin/xlwcty-admin.php:1118
+msgid "Trigger draft updated."
+msgstr ""
+
+#: admin/xlwcty-admin.php:1137
+msgid "Unable to Activate"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1155
+msgid "Unable to Deactivate"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1272 includes/xlwcty-common.php:127
+#: includes/xlwcty-common.php:128
+msgid "Thank You Page"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1336
+msgid "Docs"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1337
+msgid "Support"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1365
+msgid "<span>XL</span> Manage Components"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1374
+msgid "Thank You Page Builder"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1520
+msgid "Choose a Template"
+msgstr ""
+
+#: admin/xlwcty-admin.php:1596
+msgid ""
+"Your preview will open in new window automatically.<br/>If it doesn't click "
+"on Preview button again or allow Pop-ups for your domain."
+msgstr ""
+
+#: admin/xlwcty-admin.php:1791
+msgid "Check Settings"
+msgstr ""
+
+#: components/additional-information/data.php:15
+#: components/customer-info/data.php:14 components/html/data.php:14
+#: components/image-content/data.php:14 components/map/data.php:13
+#: components/order-acknowledge/data.php:15
+#: components/order-details/data.php:14 components/simple-text/data.php:15
+#: components/video/data.php:16
+msgid "Enable"
+msgstr ""
+
+#: components/additional-information/data.php:21
+#: components/customer-info/data.php:18 components/customer-info/data.php:101
+#: components/customer-info/data.php:116 components/html/data.php:18
+#: components/image-content/data.php:18 components/image-content/data.php:252
+#: components/map/data.php:17 components/order-acknowledge/data.php:19
+#: components/order-details/data.php:18 components/order-details/data.php:113
+#: components/simple-text/data.php:19 components/video/data.php:20
+#: components/video/data.php:142
+msgid "Yes"
+msgstr ""
+
+#: components/additional-information/data.php:22
+#: components/customer-info/data.php:18 components/customer-info/data.php:102
+#: components/customer-info/data.php:117 components/html/data.php:18
+#: components/image-content/data.php:18 components/image-content/data.php:253
+#: components/map/data.php:17 components/order-acknowledge/data.php:19
+#: components/order-details/data.php:18 components/order-details/data.php:114
+#: components/simple-text/data.php:19 components/video/data.php:20
+#: components/video/data.php:143
+msgid "No"
+msgstr ""
+
+#: components/additional-information/data.php:33
+#: components/customer-info/data.php:167 components/html/data.php:95
+#: components/image-content/data.php:333 components/map/data.php:378
+#: components/order-details/data.php:150 components/simple-text/data.php:95
+#: components/video/data.php:223
+msgid "Border"
+msgstr ""
+
+#: components/additional-information/data.php:39
+#: components/customer-info/data.php:173 components/html/data.php:101
+#: components/image-content/data.php:339 components/map/data.php:384
+#: components/order-details/data.php:156 components/simple-text/data.php:101
+#: components/video/data.php:229
+msgid "Dotted"
+msgstr ""
+
+#: components/additional-information/data.php:40
+#: components/customer-info/data.php:174 components/html/data.php:102
+#: components/image-content/data.php:340 components/map/data.php:385
+#: components/order-details/data.php:157 components/simple-text/data.php:102
+#: components/video/data.php:230
+msgid "Dashed"
+msgstr ""
+
+#: components/additional-information/data.php:41
+#: components/customer-info/data.php:175 components/html/data.php:103
+#: components/image-content/data.php:341 components/map/data.php:386
+#: components/order-details/data.php:158 components/simple-text/data.php:103
+#: components/video/data.php:231
+msgid "Solid"
+msgstr ""
+
+#: components/additional-information/data.php:42
+#: components/customer-info/data.php:176 components/html/data.php:104
+#: components/image-content/data.php:342 components/map/data.php:387
+#: components/order-details/data.php:159 components/simple-text/data.php:104
+#: components/video/data.php:232
+msgid "Double"
+msgstr ""
+
+#: components/additional-information/data.php:43
+#: components/customer-info/data.php:177 components/html/data.php:105
+#: components/image-content/data.php:343 components/map/data.php:388
+#: components/order-acknowledge/data.php:34
+#: components/order-details/data.php:160 components/simple-text/data.php:105
+#: components/video/data.php:233
+msgid "None"
+msgstr ""
+
+#: components/additional-information/data.php:51
+#: components/customer-info/data.php:185 components/html/data.php:113
+#: components/image-content/data.php:351 components/map/data.php:396
+#: components/order-details/data.php:168 components/simple-text/data.php:113
+#: components/video/data.php:241
+msgid "Border Width"
+msgstr ""
+
+#: components/additional-information/data.php:65
+#: components/customer-info/data.php:199 components/html/data.php:127
+#: components/image-content/data.php:365 components/map/data.php:410
+#: components/order-details/data.php:182 components/simple-text/data.php:127
+#: components/video/data.php:255
+msgid "Border Color"
+msgstr ""
+
+#: components/additional-information/help.php:5
+#: components/customer-info/help.php:5 components/html/help.php:5
+#: components/image-content/help.php:5 components/map/help.php:5
+#: components/order-acknowledge/help.php:5 components/order-details/help.php:5
+#: components/simple-text/help.php:5 components/video/help.php:5
+msgid "Component Design & Settings"
+msgstr ""
+
+#: components/customer-info/data.php:26 components/html/data.php:27
+#: components/image-content/data.php:27 components/map/data.php:310
+#: components/order-acknowledge/data.php:106
+#: components/order-details/data.php:26 components/simple-text/data.php:28
+#: components/video/data.php:29
+msgid "Heading"
+msgstr ""
+
+#: components/customer-info/data.php:37 components/map/data.php:321
+#: components/order-acknowledge/data.php:117 components/simple-text/data.php:39
+msgid "Heading Font Size"
+msgstr ""
+
+#: components/customer-info/data.php:51 components/html/data.php:52
+#: components/image-content/data.php:52 components/map/data.php:335
+#: components/order-details/data.php:51 components/simple-text/data.php:53
+#: components/video/data.php:54
+msgid "Heading alignment"
+msgstr ""
+
+#: components/customer-info/data.php:57 components/customer-info/data.php:84
+#: components/customer-info/data.php:156 components/html/data.php:58
+#: components/image-content/data.php:58 components/image-content/data.php:85
+#: components/map/data.php:341 components/map/data.php:368
+#: components/order-details/data.php:57 components/order-details/data.php:84
+#: components/order-details/data.php:139 components/simple-text/data.php:59
+#: components/simple-text/data.php:84 components/video/data.php:60
+#: components/video/data.php:87
+msgid "Left"
+msgstr ""
+
+#: components/customer-info/data.php:58 components/customer-info/data.php:85
+#: components/customer-info/data.php:157 components/html/data.php:59
+#: components/image-content/data.php:59 components/image-content/data.php:86
+#: components/map/data.php:342 components/map/data.php:369
+#: components/order-details/data.php:58 components/order-details/data.php:85
+#: components/order-details/data.php:140 components/simple-text/data.php:60
+#: components/simple-text/data.php:85 components/video/data.php:61
+#: components/video/data.php:88
+msgid "Center"
+msgstr ""
+
+#: components/customer-info/data.php:59 components/customer-info/data.php:86
+#: components/customer-info/data.php:158 components/html/data.php:60
+#: components/image-content/data.php:60 components/image-content/data.php:87
+#: components/map/data.php:343 components/map/data.php:370
+#: components/order-details/data.php:59 components/order-details/data.php:86
+#: components/order-details/data.php:141 components/simple-text/data.php:61
+#: components/simple-text/data.php:86 components/video/data.php:62
+#: components/video/data.php:89
+msgid "Right"
+msgstr ""
+
+#: components/customer-info/data.php:67 components/image-content/data.php:68
+#: components/map/data.php:351 components/order-details/data.php:67
+#: components/video/data.php:70
+msgid "Description"
+msgstr ""
+
+#: components/customer-info/data.php:78 components/customer-info/data.php:150
+#: components/image-content/data.php:79 components/map/data.php:362
+#: components/order-details/data.php:78 components/order-details/data.php:133
+#: components/video/data.php:81
+msgid "Description alignment"
+msgstr ""
+
+#: components/customer-info/data.php:95
+msgid "Show"
+msgstr ""
+
+#: components/customer-info/data.php:110 components/map/data.php:41
+msgid "Billing Address"
+msgstr ""
+
+#: components/customer-info/data.php:130 includes/xlwcty-common.php:1277
+msgid "Two Column"
+msgstr ""
+
+#: components/customer-info/data.php:131
+msgid "Full Width"
+msgstr ""
+
+#: components/customer-info/data.php:139
+msgid "Description after customer information"
+msgstr ""
+
+#: components/customer-info/data.php:210 components/html/data.php:138
+#: components/image-content/data.php:376 components/map/data.php:421
+#: components/order-details/data.php:193 components/simple-text/data.php:138
+#: components/video/data.php:266
+msgid "Background"
+msgstr ""
+
+#: components/customer-info/data.php:211 components/html/data.php:139
+#: components/image-content/data.php:377 components/map/data.php:422
+#: components/order-details/data.php:194 components/simple-text/data.php:139
+#: components/video/data.php:267
+msgid "Component background color"
+msgstr ""
+
+#: components/customer-info/data.php:221 components/customer-info/data.php:232
+#: components/order-details/data.php:204 components/order-details/data.php:215
+msgid "Hide on"
+msgstr ""
+
+#: components/customer-info/data.php:222 components/order-details/data.php:205
+msgid "Desktop"
+msgstr ""
+
+#: components/customer-info/data.php:233 components/order-details/data.php:216
+msgid "Mobile"
+msgstr ""
+
+#: components/customer-info/data.php:246
+msgid "Customer Information"
+msgstr ""
+
+#: components/customer-info/views/view.php:6 components/html/views/view.php:14
+#: components/image-content/views/2c.php:8
+#: components/image-content/views/full.php:38
+#: components/image-content/views/left-image.php:18
+#: components/image-content/views/right-image.php:17
+#: components/map/views/view.php:13 components/simple-text/views/view.php:14
+#: components/video/views/view.php:45
+msgid "Data not set"
+msgstr ""
+
+#: components/customer-info/views/view.php:10 components/html/views/view.php:4
+#: components/image-content/views/2c.php:12
+#: components/image-content/views/full.php:5
+#: components/image-content/views/left-image.php:22
+#: components/image-content/views/right-image.php:21
+#: components/map/views/view.php:17
+#: components/order-acknowledge/views/view.php:3
+#: components/order-details/views/view.php:4
+#: components/simple-text/views/view.php:4 components/video/views/view.php:4
+msgid "On"
+msgstr ""
+
+#: components/customer-info/views/view.php:52
+#: components/customer-info/views/view.php:141
+msgid "Email"
+msgstr ""
+
+#: components/customer-info/views/view.php:58
+#: components/customer-info/views/view.php:147
+msgid "Phone"
+msgstr ""
+
+#: components/customer-info/views/view.php:71
+#: components/customer-info/views/view.php:159
+msgid "Billing address"
+msgstr ""
+
+#: components/customer-info/views/view.php:103
+#: components/customer-info/views/view.php:178
+msgid "Shipping address"
+msgstr ""
+
+#: components/html/data.php:38 components/image-content/data.php:38
+#: components/order-details/data.php:37 components/video/data.php:40
+msgid "Heading font size"
+msgstr ""
+
+#: components/html/data.php:68
+msgid "Content Editor"
+msgstr ""
+
+#: components/image-content/data.php:111
+msgid "Image"
+msgstr ""
+
+#: components/image-content/data.php:130
+msgid "Image link "
+msgstr ""
+
+#: components/image-content/data.php:143
+msgid "Image Content Ratio"
+msgstr ""
+
+#: components/image-content/data.php:160
+msgid "Left Image"
+msgstr ""
+
+#: components/image-content/data.php:178
+msgid "Left Image link "
+msgstr ""
+
+#: components/image-content/data.php:191
+msgid "Content"
+msgstr ""
+
+#: components/image-content/data.php:217
+msgid "Right Image"
+msgstr ""
+
+#: components/image-content/data.php:235
+msgid "Right Image link "
+msgstr ""
+
+#: components/image-content/data.php:248 components/video/data.php:138
+msgid "Show Button"
+msgstr ""
+
+#: components/image-content/data.php:263 components/video/data.php:153
+msgid "Button Text"
+msgstr ""
+
+#: components/image-content/data.php:276 components/video/data.php:166
+msgid "Button Link"
+msgstr ""
+
+#: components/image-content/data.php:277 components/video/data.php:167
+msgid "Use "
+msgstr ""
+
+#: components/image-content/data.php:277 components/video/data.php:167
+msgid "for dynamic links."
+msgstr ""
+
+#: components/image-content/data.php:291 components/video/data.php:181
+msgid "Button Font Size"
+msgstr ""
+
+#: components/image-content/data.php:307 components/video/data.php:197
+msgid "Button Text Color"
+msgstr ""
+
+#: components/image-content/data.php:320 components/video/data.php:210
+msgid "Button Background Color"
+msgstr ""
+
+#: components/map/data.php:35
+msgid "Marker Address"
+msgstr ""
+
+#: components/map/data.php:40
+msgid "Shipping Address"
+msgstr ""
+
+#: components/map/data.php:49
+msgid "Map"
+msgstr ""
+
+#: components/map/data.php:53
+msgid "Standard"
+msgstr ""
+
+#: components/map/data.php:54
+msgid "Light"
+msgstr ""
+
+#: components/map/data.php:55
+msgid "Grey"
+msgstr ""
+
+#: components/map/data.php:56
+msgid "Retro"
+msgstr ""
+
+#: components/map/data.php:57
+msgid "Mid Night"
+msgstr ""
+
+#: components/map/data.php:58
+msgid "Blue Essence"
+msgstr ""
+
+#: components/map/data.php:59
+msgid "Muted Blue"
+msgstr ""
+
+#: components/map/data.php:60
+msgid "Facebook"
+msgstr ""
+
+#: components/map/data.php:70
+msgid "Map Zoom Level"
+msgstr ""
+
+#: components/map/data.php:85
+msgid "Marker Text"
+msgstr ""
+
+#: components/map/data.php:97
+msgid "Marker Icon"
+msgstr ""
+
+#: components/map/data.php:102 components/order-acknowledge/data.php:32
+msgid "Built-in"
+msgstr ""
+
+#: components/map/data.php:103 components/map/data.php:291
+#: components/order-acknowledge/data.php:33
+#: components/order-acknowledge/data.php:87
+msgid "Custom"
+msgstr ""
+
+#: components/map/data.php:104
+msgid "Default"
+msgstr ""
+
+#: components/map/data.php:113 components/order-acknowledge/data.php:42
+msgid "Built In"
+msgstr ""
+
+#: components/map/data.php:121
+msgid "Pin Blue 1"
+msgstr ""
+
+#: components/map/data.php:122
+msgid "Pin Blue 2"
+msgstr ""
+
+#: components/map/data.php:123
+msgid "Pin Blue 3"
+msgstr ""
+
+#: components/map/data.php:124
+msgid "Pin Blue 4"
+msgstr ""
+
+#: components/map/data.php:125
+msgid "Pin Blue 5"
+msgstr ""
+
+#: components/map/data.php:126
+msgid "Pin Blue 6"
+msgstr ""
+
+#: components/map/data.php:127
+msgid "Pin Blue 7"
+msgstr ""
+
+#: components/map/data.php:128
+msgid "Pin Blue 8"
+msgstr ""
+
+#: components/map/data.php:129
+msgid "Pin Blue 9"
+msgstr ""
+
+#: components/map/data.php:130
+msgid "Pin Blue 10"
+msgstr ""
+
+#: components/map/data.php:131
+msgid "Pin Blue 11"
+msgstr ""
+
+#: components/map/data.php:132
+msgid "Pin Blue 12"
+msgstr ""
+
+#: components/map/data.php:133
+msgid "Pin Blue 13"
+msgstr ""
+
+#: components/map/data.php:134
+msgid "Pin Blue 14"
+msgstr ""
+
+#: components/map/data.php:135
+msgid "Pin Blue 15"
+msgstr ""
+
+#: components/map/data.php:136
+msgid "Pin Blue 16"
+msgstr ""
+
+#: components/map/data.php:137
+msgid "Pin Blue Solid 1"
+msgstr ""
+
+#: components/map/data.php:138
+msgid "Pin Blue Solid 2"
+msgstr ""
+
+#: components/map/data.php:139
+msgid "Pin Blue Solid 3"
+msgstr ""
+
+#: components/map/data.php:140
+msgid "Pin Blue Solid 4"
+msgstr ""
+
+#: components/map/data.php:141
+msgid "Pin Blue Solid 5"
+msgstr ""
+
+#: components/map/data.php:142
+msgid "Pin Blue Solid 6"
+msgstr ""
+
+#: components/map/data.php:143
+msgid "Pin Blue Solid 7"
+msgstr ""
+
+#: components/map/data.php:144
+msgid "Pin Blue Solid 8"
+msgstr ""
+
+#: components/map/data.php:145
+msgid "Pin Blue Solid 9"
+msgstr ""
+
+#: components/map/data.php:146
+msgid "Pin Blue Solid 10"
+msgstr ""
+
+#: components/map/data.php:147
+msgid "Pin Blue Solid 11"
+msgstr ""
+
+#: components/map/data.php:148
+msgid "Pin Blue Solid 12"
+msgstr ""
+
+#: components/map/data.php:149
+msgid "Pin Blue Solid 13"
+msgstr ""
+
+#: components/map/data.php:150
+msgid "Pin Blue Solid 14"
+msgstr ""
+
+#: components/map/data.php:151
+msgid "Pin Blue Solid 15"
+msgstr ""
+
+#: components/map/data.php:152
+msgid "Pin Blue Solid 16"
+msgstr ""
+
+#: components/map/data.php:153
+msgid "Pin Green 1"
+msgstr ""
+
+#: components/map/data.php:154
+msgid "Pin Green 2"
+msgstr ""
+
+#: components/map/data.php:155
+msgid "Pin Green 3"
+msgstr ""
+
+#: components/map/data.php:156
+msgid "Pin Green 4"
+msgstr ""
+
+#: components/map/data.php:157
+msgid "Pin Green 5"
+msgstr ""
+
+#: components/map/data.php:158
+msgid "Pin Green 6"
+msgstr ""
+
+#: components/map/data.php:159
+msgid "Pin Green 7"
+msgstr ""
+
+#: components/map/data.php:160
+msgid "Pin Green 8"
+msgstr ""
+
+#: components/map/data.php:161
+msgid "Pin Green 9"
+msgstr ""
+
+#: components/map/data.php:162
+msgid "Pin Green 10"
+msgstr ""
+
+#: components/map/data.php:163
+msgid "Pin Green 11"
+msgstr ""
+
+#: components/map/data.php:164
+msgid "Pin Green 12"
+msgstr ""
+
+#: components/map/data.php:165
+msgid "Pin Green 13"
+msgstr ""
+
+#: components/map/data.php:166
+msgid "Pin Green 14"
+msgstr ""
+
+#: components/map/data.php:167
+msgid "Pin Green 15"
+msgstr ""
+
+#: components/map/data.php:168
+msgid "Pin Green 16"
+msgstr ""
+
+#: components/map/data.php:169
+msgid "Pin Green Solid 1"
+msgstr ""
+
+#: components/map/data.php:170
+msgid "Pin Green Solid 2"
+msgstr ""
+
+#: components/map/data.php:171
+msgid "Pin Green Solid 3"
+msgstr ""
+
+#: components/map/data.php:172
+msgid "Pin Green Solid 4"
+msgstr ""
+
+#: components/map/data.php:173
+msgid "Pin Green Solid 5"
+msgstr ""
+
+#: components/map/data.php:174
+msgid "Pin Green Solid 6"
+msgstr ""
+
+#: components/map/data.php:175
+msgid "Pin Green Solid 7"
+msgstr ""
+
+#: components/map/data.php:176
+msgid "Pin Green Solid 8"
+msgstr ""
+
+#: components/map/data.php:177
+msgid "Pin Green Solid 9"
+msgstr ""
+
+#: components/map/data.php:178
+msgid "Pin Green Solid 10"
+msgstr ""
+
+#: components/map/data.php:179
+msgid "Pin Green Solid 11"
+msgstr ""
+
+#: components/map/data.php:180
+msgid "Pin Green Solid 12"
+msgstr ""
+
+#: components/map/data.php:181
+msgid "Pin Green Solid 13"
+msgstr ""
+
+#: components/map/data.php:182
+msgid "Pin Green Solid 14"
+msgstr ""
+
+#: components/map/data.php:183
+msgid "Pin Green Solid 15"
+msgstr ""
+
+#: components/map/data.php:184
+msgid "Pin Green Solid 16"
+msgstr ""
+
+#: components/map/data.php:185
+msgid "Pin Magenta 1"
+msgstr ""
+
+#: components/map/data.php:186
+msgid "Pin Magenta 2"
+msgstr ""
+
+#: components/map/data.php:187
+msgid "Pin Magenta 3"
+msgstr ""
+
+#: components/map/data.php:188
+msgid "Pin Magenta 4"
+msgstr ""
+
+#: components/map/data.php:189
+msgid "Pin Magenta 5"
+msgstr ""
+
+#: components/map/data.php:190
+msgid "Pin Magenta 6"
+msgstr ""
+
+#: components/map/data.php:191
+msgid "Pin Magenta 7"
+msgstr ""
+
+#: components/map/data.php:192
+msgid "Pin Magenta 8"
+msgstr ""
+
+#: components/map/data.php:193
+msgid "Pin Magenta 9"
+msgstr ""
+
+#: components/map/data.php:194
+msgid "Pin Magenta 10"
+msgstr ""
+
+#: components/map/data.php:195
+msgid "Pin Magenta 11"
+msgstr ""
+
+#: components/map/data.php:196
+msgid "Pin Magenta 12"
+msgstr ""
+
+#: components/map/data.php:197
+msgid "Pin Magenta 13"
+msgstr ""
+
+#: components/map/data.php:198
+msgid "Pin Magenta 14"
+msgstr ""
+
+#: components/map/data.php:199
+msgid "Pin Magenta 15"
+msgstr ""
+
+#: components/map/data.php:200
+msgid "Pin Magenta 16"
+msgstr ""
+
+#: components/map/data.php:201
+msgid "Pin Magenta Solid 1"
+msgstr ""
+
+#: components/map/data.php:202
+msgid "Pin Magenta Solid 2"
+msgstr ""
+
+#: components/map/data.php:203
+msgid "Pin Magenta Solid 3"
+msgstr ""
+
+#: components/map/data.php:204
+msgid "Pin Magenta Solid 4"
+msgstr ""
+
+#: components/map/data.php:205
+msgid "Pin Magenta Solid 5"
+msgstr ""
+
+#: components/map/data.php:206
+msgid "Pin Magenta Solid 6"
+msgstr ""
+
+#: components/map/data.php:207
+msgid "Pin Magenta Solid 7"
+msgstr ""
+
+#: components/map/data.php:208
+msgid "Pin Magenta Solid 8"
+msgstr ""
+
+#: components/map/data.php:209
+msgid "Pin Magenta Solid 9"
+msgstr ""
+
+#: components/map/data.php:210
+msgid "Pin Magenta Solid 10"
+msgstr ""
+
+#: components/map/data.php:211
+msgid "Pin Magenta Solid 11"
+msgstr ""
+
+#: components/map/data.php:212
+msgid "Pin Magenta Solid 12"
+msgstr ""
+
+#: components/map/data.php:213
+msgid "Pin Magenta Solid 13"
+msgstr ""
+
+#: components/map/data.php:214
+msgid "Pin Magenta Solid 14"
+msgstr ""
+
+#: components/map/data.php:215
+msgid "Pin Magenta Solid 15"
+msgstr ""
+
+#: components/map/data.php:216
+msgid "Pin Magenta Solid 16"
+msgstr ""
+
+#: components/map/data.php:217
+msgid "Pin Red 1"
+msgstr ""
+
+#: components/map/data.php:218
+msgid "Pin Red 2"
+msgstr ""
+
+#: components/map/data.php:219
+msgid "Pin Red 3"
+msgstr ""
+
+#: components/map/data.php:220
+msgid "Pin Red 4"
+msgstr ""
+
+#: components/map/data.php:221
+msgid "Pin Red 5"
+msgstr ""
+
+#: components/map/data.php:222
+msgid "Pin Red 6"
+msgstr ""
+
+#: components/map/data.php:223
+msgid "Pin Red 7"
+msgstr ""
+
+#: components/map/data.php:224
+msgid "Pin Red 8"
+msgstr ""
+
+#: components/map/data.php:225
+msgid "Pin Red 9"
+msgstr ""
+
+#: components/map/data.php:226
+msgid "Pin Red 10"
+msgstr ""
+
+#: components/map/data.php:227
+msgid "Pin Red 11"
+msgstr ""
+
+#: components/map/data.php:228
+msgid "Pin Red 12"
+msgstr ""
+
+#: components/map/data.php:229
+msgid "Pin Red 13"
+msgstr ""
+
+#: components/map/data.php:230
+msgid "Pin Red 14"
+msgstr ""
+
+#: components/map/data.php:231
+msgid "Pin Red 15"
+msgstr ""
+
+#: components/map/data.php:232
+msgid "Pin Red 16"
+msgstr ""
+
+#: components/map/data.php:233
+msgid "Pin Red Solid 1"
+msgstr ""
+
+#: components/map/data.php:234
+msgid "Pin Red Solid 2"
+msgstr ""
+
+#: components/map/data.php:235
+msgid "Pin Red Solid 3"
+msgstr ""
+
+#: components/map/data.php:236
+msgid "Pin Red Solid 4"
+msgstr ""
+
+#: components/map/data.php:237
+msgid "Pin Red Solid 5"
+msgstr ""
+
+#: components/map/data.php:238
+msgid "Pin Red Solid 6"
+msgstr ""
+
+#: components/map/data.php:239
+msgid "Pin Red Solid 7"
+msgstr ""
+
+#: components/map/data.php:240
+msgid "Pin Red Solid 8"
+msgstr ""
+
+#: components/map/data.php:241
+msgid "Pin Red Solid 9"
+msgstr ""
+
+#: components/map/data.php:242
+msgid "Pin Red Solid 10"
+msgstr ""
+
+#: components/map/data.php:243
+msgid "Pin Red Solid 11"
+msgstr ""
+
+#: components/map/data.php:244
+msgid "Pin Red Solid 12"
+msgstr ""
+
+#: components/map/data.php:245
+msgid "Pin Red Solid 13"
+msgstr ""
+
+#: components/map/data.php:246
+msgid "Pin Red Solid 14"
+msgstr ""
+
+#: components/map/data.php:247
+msgid "Pin Red Solid 15"
+msgstr ""
+
+#: components/map/data.php:248
+msgid "Pin Red Solid 16"
+msgstr ""
+
+#: components/map/data.php:249
+msgid "Pin Yellow 1"
+msgstr ""
+
+#: components/map/data.php:250
+msgid "Pin Yellow 2"
+msgstr ""
+
+#: components/map/data.php:251
+msgid "Pin Yellow 3"
+msgstr ""
+
+#: components/map/data.php:252
+msgid "Pin Yellow 4"
+msgstr ""
+
+#: components/map/data.php:253
+msgid "Pin Yellow 5"
+msgstr ""
+
+#: components/map/data.php:254
+msgid "Pin Yellow 6"
+msgstr ""
+
+#: components/map/data.php:255
+msgid "Pin Yellow 7"
+msgstr ""
+
+#: components/map/data.php:256
+msgid "Pin Yellow 8"
+msgstr ""
+
+#: components/map/data.php:257
+msgid "Pin Yellow 9"
+msgstr ""
+
+#: components/map/data.php:258
+msgid "Pin Yellow 10"
+msgstr ""
+
+#: components/map/data.php:259
+msgid "Pin Yellow 11"
+msgstr ""
+
+#: components/map/data.php:260
+msgid "Pin Yellow 12"
+msgstr ""
+
+#: components/map/data.php:261
+msgid "Pin Yellow 13"
+msgstr ""
+
+#: components/map/data.php:262
+msgid "Pin Yellow 14"
+msgstr ""
+
+#: components/map/data.php:263
+msgid "Pin Yellow 15"
+msgstr ""
+
+#: components/map/data.php:264
+msgid "Pin Yellow 16"
+msgstr ""
+
+#: components/map/data.php:265
+msgid "Pin Yellow Solid 1"
+msgstr ""
+
+#: components/map/data.php:266
+msgid "Pin Yellow Solid 2"
+msgstr ""
+
+#: components/map/data.php:267
+msgid "Pin Yellow Solid 3"
+msgstr ""
+
+#: components/map/data.php:268
+msgid "Pin Yellow Solid 4"
+msgstr ""
+
+#: components/map/data.php:269
+msgid "Pin Yellow Solid 5"
+msgstr ""
+
+#: components/map/data.php:270
+msgid "Pin Yellow Solid 6"
+msgstr ""
+
+#: components/map/data.php:271
+msgid "Pin Yellow Solid 7"
+msgstr ""
+
+#: components/map/data.php:272
+msgid "Pin Yellow Solid 8"
+msgstr ""
+
+#: components/map/data.php:273
+msgid "Pin Yellow Solid 9"
+msgstr ""
+
+#: components/map/data.php:274
+msgid "Pin Yellow Solid 10"
+msgstr ""
+
+#: components/map/data.php:275
+msgid "Pin Yellow Solid 11"
+msgstr ""
+
+#: components/map/data.php:276
+msgid "Pin Yellow Solid 12"
+msgstr ""
+
+#: components/map/data.php:277
+msgid "Pin Yellow Solid 13"
+msgstr ""
+
+#: components/map/data.php:278
+msgid "Pin Yellow Solid 14"
+msgstr ""
+
+#: components/map/data.php:279
+msgid "Pin Yellow Solid 15"
+msgstr ""
+
+#: components/map/data.php:280
+msgid "Pin Yellow Solid 16"
+msgstr ""
+
+#: components/map/data.php:443
+msgid "Your order is confirmed"
+msgstr ""
+
+#: components/order-acknowledge/data.php:27
+msgid "Icon"
+msgstr ""
+
+#: components/order-acknowledge/data.php:50
+msgid "Checkmark"
+msgstr ""
+
+#: components/order-acknowledge/data.php:51
+msgid "Smiley"
+msgstr ""
+
+#: components/order-acknowledge/data.php:52
+msgid "Thumbs Up"
+msgstr ""
+
+#: components/order-acknowledge/data.php:53
+msgid "Clock"
+msgstr ""
+
+#: components/order-acknowledge/data.php:54
+msgid "Bell"
+msgstr ""
+
+#: components/order-acknowledge/data.php:55
+msgid "Horn"
+msgstr ""
+
+#: components/order-acknowledge/data.php:56
+msgid "Diamond"
+msgstr ""
+
+#: components/order-acknowledge/data.php:57
+msgid "Flash"
+msgstr ""
+
+#: components/order-acknowledge/data.php:58
+msgid "Globe"
+msgstr ""
+
+#: components/order-acknowledge/data.php:59
+msgid "Gift"
+msgstr ""
+
+#: components/order-acknowledge/data.php:60
+msgid "Heart"
+msgstr ""
+
+#: components/order-acknowledge/data.php:61
+msgid "Bulb"
+msgstr ""
+
+#: components/order-acknowledge/data.php:62
+msgid "Flag"
+msgstr ""
+
+#: components/order-acknowledge/data.php:63
+msgid "Cart"
+msgstr ""
+
+#: components/order-acknowledge/data.php:74
+msgid "Icon Color"
+msgstr ""
+
+#: components/order-acknowledge/data.php:131
+msgid "Heading Color"
+msgstr ""
+
+#: components/order-acknowledge/data.php:142
+msgid "Sub Heading"
+msgstr ""
+
+#: components/order-acknowledge/data.php:153
+msgid "Sub Heading Font Size"
+msgstr ""
+
+#: components/order-acknowledge/data.php:167
+msgid "Sub Heading Color"
+msgstr ""
+
+#: components/order-acknowledge/data.php:185 includes/xlwcty-common.php:579
+msgid "Order"
+msgstr ""
+
+#: components/order-acknowledge/data.php:188
+msgid "Thank you"
+msgstr ""
+
+#: components/order-details/data.php:100
+msgid "Advanced"
+msgstr ""
+
+#: components/order-details/data.php:101
+msgid "Native WooCommerce"
+msgstr ""
+
+#: components/order-details/data.php:109
+msgid "Display Images"
+msgstr ""
+
+#: components/order-details/data.php:122
+msgid "Description below order table"
+msgstr ""
+
+#: components/order-details/data.php:229
+#: components/order-details/views/order-summary-custom.php:4
+#: components/order-details/views/order-summary-default.php:7
+msgid "Order details"
+msgstr ""
+
+#: components/order-details/views/order-summary-default.php:13
+msgid "Product"
+msgstr ""
+
+#: components/order-details/views/order-summary-default.php:14
+msgid "Total"
+msgstr ""
+
+#: components/order-details/views/related-subscriptions.php:15
+msgid "Related Subscriptions"
+msgstr ""
+
+#: components/order-details/views/related-subscriptions.php:19
+msgid "Subscription"
+msgstr ""
+
+#: components/simple-text/data.php:69
+msgid "Text"
+msgstr ""
+
+#: components/simple-text/data.php:80
+msgid "Text Alignment"
+msgstr ""
+
+#: components/video/data.php:97
+msgid "Video Source"
+msgstr ""
+
+#: components/video/data.php:101 components/video/data.php:111
+msgid "Video URL"
+msgstr ""
+
+#: components/video/data.php:102 components/video/data.php:124
+msgid "Embed Code"
+msgstr ""
+
+#: components/video/data.php:114
+msgid "For Youtube & Vimeo only"
+msgstr ""
+
+#: components/video/data.php:127
+msgid "Embed source of video"
+msgstr ""
+
+#: components/video/data.php:281
+msgid "Video heading ..."
+msgstr ""
+
+#: includes/xlwcty-common.php:131 includes/xlwcty-common.php:132
+msgid "Edit"
+msgstr ""
+
+#: includes/xlwcty-common.php:133
+msgid "New"
+msgstr ""
+
+#: includes/xlwcty-common.php:134 includes/xlwcty-common.php:135
+msgid "View"
+msgstr ""
+
+#: includes/xlwcty-common.php:136
+msgid "Search"
+msgstr ""
+
+#: includes/xlwcty-common.php:137
+msgid "No Thank You Page"
+msgstr ""
+
+#: includes/xlwcty-common.php:138
+msgid "No Thank You Page found in trash"
+msgstr ""
+
+#: includes/xlwcty-common.php:139
+msgid "Parent"
+msgstr ""
+
+#: includes/xlwcty-common.php:350
+msgid "Choose a Coupon"
+msgstr ""
+
+#: includes/xlwcty-common.php:428
+msgid "Choose a Product"
+msgstr ""
+
+#: includes/xlwcty-common.php:577
+msgid "Always"
+msgstr ""
+
+#: includes/xlwcty-common.php:580 merge-tags/xlwcty-dynamic-merge-tags.php:103
+msgid "Order Total"
+msgstr ""
+
+#: includes/xlwcty-common.php:581
+msgid "Order Item(s)"
+msgstr ""
+
+#: includes/xlwcty-common.php:582
+msgid "Order Category(s)"
+msgstr ""
+
+#: includes/xlwcty-common.php:583
+msgid "Order Item Count"
+msgstr ""
+
+#: includes/xlwcty-common.php:584
+msgid "Order Item Type"
+msgstr ""
+
+#: includes/xlwcty-common.php:585
+msgid "Order Coupons"
+msgstr ""
+
+#: includes/xlwcty-common.php:586
+msgid "Order Payment Gateway"
+msgstr ""
+
+#: includes/xlwcty-common.php:587
+msgid "Order Shipping Method"
+msgstr ""
+
+#: includes/xlwcty-common.php:588
+msgid "Is First Order"
+msgstr ""
+
+#: includes/xlwcty-common.php:589
+msgid "Is Order Renewal"
+msgstr ""
+
+#: includes/xlwcty-common.php:590
+msgid "Is Order Upgrade"
+msgstr ""
+
+#: includes/xlwcty-common.php:591
+msgid "Is Order Downgrade"
+msgstr ""
+
+#: includes/xlwcty-common.php:593 includes/xlwcty-common.php:594
+msgid "Customer"
+msgstr ""
+
+#: includes/xlwcty-common.php:595
+msgid "Customer User Role"
+msgstr ""
+
+#: includes/xlwcty-common.php:596
+msgid "Customer Order Count"
+msgstr ""
+
+#: includes/xlwcty-common.php:597
+msgid "Customer Total Spent"
+msgstr ""
+
+#: includes/xlwcty-common.php:599
+msgid "Guest"
+msgstr ""
+
+#: includes/xlwcty-common.php:600
+msgid "Is Customer Guest"
+msgstr ""
+
+#: includes/xlwcty-common.php:601
+msgid "Guest Order Count"
+msgstr ""
+
+#: includes/xlwcty-common.php:602
+msgid "Guest Total Spent"
+msgstr ""
+
+#: includes/xlwcty-common.php:604
+msgid "Geography"
+msgstr ""
+
+#: includes/xlwcty-common.php:605 merge-tags/xlwcty-dynamic-merge-tags.php:123
+msgid "Order Shipping Country"
+msgstr ""
+
+#: includes/xlwcty-common.php:606 merge-tags/xlwcty-dynamic-merge-tags.php:119
+msgid "Order Billing Country"
+msgstr ""
+
+#: includes/xlwcty-common.php:608
+msgid "Date/Time"
+msgstr ""
+
+#: includes/xlwcty-common.php:609
+msgid "Day"
+msgstr ""
+
+#: includes/xlwcty-common.php:610
+msgid "Date"
+msgstr ""
+
+#: includes/xlwcty-common.php:611
+msgid "Time"
+msgstr ""
+
+#: includes/xlwcty-common.php:722 includes/xlwcty-common.php:728
+msgid "Activate"
+msgstr ""
+
+#: includes/xlwcty-common.php:736
+msgid "Deactivate"
+msgstr ""
+
+#: includes/xlwcty-common.php:744
+msgid "Duplicate"
+msgstr ""
+
+#: includes/xlwcty-common.php:750
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/xlwcty-common.php:791
+msgid "Disabled"
+msgstr ""
+
+#: includes/xlwcty-common.php:1272
+msgid "One Column"
+msgstr ""
+
+#: includes/xlwcty-common.php:1357
+msgid "Unauthorized access. "
+msgstr ""
+
+#: includes/xlwcty-common.php:1406
+msgid "No Pages Found"
+msgstr ""
+
+#: includes/xlwcty-common.php:1436
+msgid "Copy"
+msgstr ""
+
+#: includes/xlwcty-common.php:1513
+msgid "Unable to Duplicate"
+msgstr ""
+
+#: includes/xlwcty-common.php:1576
+msgid ""
+"Something is wrong with settings. Thank You page won't appear until all "
+"points turn green."
+msgstr ""
+
+#: includes/xlwcty-common.php:1580
+msgid "NextMove mode is Sandbox. Click here to change it to"
+msgstr ""
+
+#: includes/xlwcty-common.php:1583
+msgid "Reset"
+msgstr ""
+
+#: includes/xlwcty-common.php:1584
+msgid "Permalink needs reset. Click here to"
+msgstr ""
+
+#: includes/xlwcty-common.php:1584
+msgid " it."
+msgstr ""
+
+#: includes/xlwcty-common.php:1587
+msgid ""
+"There are no Active Thank You pages. Create a New page or Activate existing "
+"one."
+msgstr ""
+
+#: includes/xlwcty-common.php:1591
+msgid "If still unable to setup Thank You page. Create a"
+msgstr ""
+
+#: includes/xlwcty-public.php:351
+msgid "Unable to process your request."
+msgstr ""
+
+#: includes/xlwcty-public.php:370
+msgid "We are unable to show preview for this thank you page."
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:87
+#, php-format
+msgid ""
+"<p>You are <strong>not receiving</strong> Latest Updates, New Features, "
+"Security Updates &amp; Bug Fixes for <strong>%s</strong>. <a href=\"%s"
+"\">Click Here To Fix This</a>.</p>"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:193
+msgid ""
+"<p> Unable to submit your request.All fields are required. Please ensure "
+"that all the fields are filled out.</p>"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:226
+msgid "XLPlugins"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:229
+msgid "Licenses"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:229
+msgid "License"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:237
+msgid "NextMove Lite"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:246 includes/xlwcty-xl-support.php:248
+msgid "Other"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:255 includes/xlwcty-xl-support.php:257
+msgid "I am going to upgrade to PRO version"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:261 includes/xlwcty-xl-support.php:263
+msgid "NextMove Thank You page shows 404 error"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:267 includes/xlwcty-xl-support.php:269
+msgid "Native Woocommerce Thank You page is still showing"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:273 includes/xlwcty-xl-support.php:275
+msgid "I was unable to set up Thank You Page"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:297 includes/xlwcty-xl-support.php:299
+msgid "Google Map not showing on Thank You Page"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:303 includes/xlwcty-xl-support.php:305
+msgid "I didn't like the design of Thank You Page"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:436
+msgid "Nextmove Lite"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:446
+msgid "Export Thank You Pages"
+msgstr ""
+
+#: includes/xlwcty-xl-support.php:447
+msgid "Export Settings"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:63
+msgid "Customer ID"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:67
+msgid "Customer First Name"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:71
+msgid "Customer Last Name"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:75
+msgid "Customer Full Name Uppercase"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:79
+msgid "Customer First Name Uppercase"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:83
+msgid "Customer Email"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:87
+msgid "Customer Phone"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:91
+msgid "Order Number"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:95
+msgid "Order Status"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:99
+msgid "Order Date"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:107
+msgid "Order Items Count"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:111
+msgid "Order Shipping method"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:115
+msgid "Order payment method"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:127
+msgid "Order Billing Address"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:131
+msgid "Order Shipping Address"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:135
+msgid "Order Customer Note"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:139
+msgid "Users IP Address"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:143
+msgid "Customer Provided Note"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:147
+msgid "Subscription ID"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:151
+msgid "Subscription Status"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:155
+msgid "Subscription Start Date"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:159
+msgid "Subscription Next Payment Date"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:163
+msgid "Subscription End Date"
+msgstr ""
+
+#: merge-tags/xlwcty-dynamic-merge-tags.php:500
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: merge-tags/xlwcty-shortcode-merge-tags.php:294
+msgid "tomorrow"
+msgstr ""
+
+#: merge-tags/xlwcty-shortcode-merge-tags.php:310
+msgid "today"
+msgstr ""
+
+#: merge-tags/xlwcty-static-merge-tags.php:61
+msgid "Shop Title"
+msgstr ""
+
+#: merge-tags/xlwcty-static-merge-tags.php:65
+msgid "Home Url"
+msgstr ""
+
+#: merge-tags/xlwcty-static-merge-tags.php:69
+msgid "Shop URL"
+msgstr ""
+
+#: merge-tags/xlwcty-static-merge-tags.php:73
+msgid "Shop Admin Email"
+msgstr ""
+
+#: rules/inputs/cart-category-select.php:29
+#: rules/inputs/cart-product-select.php:26
+msgid "Quantity"
+msgstr ""
+
+#: rules/inputs/cart-category-select.php:30
+msgid "Categories"
+msgstr ""
+
+#: rules/inputs/cart-category-select.php:37 rules/inputs/chosen-select.php:29
+msgid "Search..."
+msgstr ""
+
+#: rules/inputs/cart-product-select.php:27
+msgid "Products"
+msgstr ""
+
+#: rules/inputs/cart-product-select.php:35 rules/inputs/product-select.php:28
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: rules/inputs/geo-postal-code-entry.php:28
+msgid "Distance ( km )"
+msgstr ""
+
+#: rules/inputs/geo-postal-code-entry.php:29
+msgid "Zip/Postalcode ( One per line )"
+msgstr ""
+
+#: rules/inputs/html-always.php:17
+msgid ""
+"Trigger will always display for all shoppers on your site. This will "
+"override any other rule you define."
+msgstr ""
+
+#: rules/inputs/html-rule-is-first-order.php:17
+msgid "This Page will show on very first order for the customer."
+msgstr ""
+
+#: rules/inputs/html-rule-is-guest.php:17
+msgid "This Page will show on guest orders."
+msgstr ""
+
+#: rules/inputs/html-rule-is-renewal.php:17
+msgid "This Page will show on orders that are renewals."
+msgstr ""
+
+#: rules/inputs/term-select.php:29
+msgid "Select category"
+msgstr ""
+
+#: rules/rules/base.php:31 rules/rules/order.php:11
+msgid "is equal to"
+msgstr ""
+
+#: rules/rules/base.php:32 rules/rules/order.php:12
+msgid "is not equal to"
+msgstr ""
+
+#: rules/rules/order.php:13
+msgid "is greater than"
+msgstr ""
+
+#: rules/rules/order.php:14
+msgid "is less than"
+msgstr ""
+
+#: rules/rules/order.php:15
+msgid "is greater or equal to"
+msgstr ""
+
+#: rules/rules/order.php:16
+msgid "is less or equal to"
+msgstr ""
+
+#: rules/rules/order.php:72
+msgid "contains at least"
+msgstr ""
+
+#: rules/rules/order.php:73
+msgid "contains less than"
+msgstr ""
+
+#: rules/rules/order.php:75
+msgid "contains exactly"
+msgstr ""
+
+#: rules/rules/order.php:151 rules/rules/order.php:230
+msgid "matched any of"
+msgstr ""
+
+#: rules/rules/order.php:152 rules/rules/order.php:231
+msgid "matches all of "
+msgstr ""
+
+#: thank-you-page-for-woocommerce-nextmove-lite.php:350
+#, php-format
+msgid ""
+"NextMove requires WooCommerce version %1$s or greater. Kindly update the "
+"WooCommerce plugin."
+msgstr ""
+
+#: thank-you-page-for-woocommerce-nextmove-lite.php:362
+msgid ""
+"WooCommerce is not installed or activated. NextMove is a WooCommerce "
+"Extension and would only work if WooCommerce is activated. Please install "
+"the WooCommerce Plugin first."
+msgstr ""

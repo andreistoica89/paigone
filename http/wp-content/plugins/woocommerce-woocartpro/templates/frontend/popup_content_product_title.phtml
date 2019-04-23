@@ -1,0 +1,13 @@
+
+<?php if ($settings['displayQuantitySpinner']) { ?>
+    <div class="itemQuantity popupSpinner">
+        <input class="quantitySpinner" type="number" step="1" min="1" max=""
+               name="<?php echo $cart_item_key ?>"
+               value="<?php echo $cart_item['quantity']; ?>" title="" size="1">
+    </div>
+<?php } else { ?>
+    <span
+        class="festi-cart-product-count"><?php echo $cart_item['quantity']; ?> </span>
+<?php } ?>
+<p>x</p>
+<span class="festi-cart-product-price"><?php echo $productPrice; ?></span>
